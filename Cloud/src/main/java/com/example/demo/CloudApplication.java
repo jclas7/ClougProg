@@ -10,7 +10,10 @@ public class CloudApplication {
 		SpringApplication.run(CloudApplication.class, args);
 		
 		
-	    System.out.println("my test");
+	    
+	    
+	    System.out.println("my test222");
+	    
 	}
 
 }
